@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"dg-home":"true","permalink":"/奇迹城市/'奇迹城市'Kiseki no machi/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+---
+
+
+'奇迹城市'是In.no.cent的主界面，你可以从这里开始，查阅、思考或是选择我推荐的内容！
+
+比如总是在更新的**书籍**
+[[奇迹城市/书籍/’童话‘/爱丽丝梦游仙境/爱丽丝梦游仙境\|爱丽丝梦游仙境]]
+[[奇迹城市/书籍/原创/AIpunk/AIpunk\|AIpunk]]
+
+以及现在正在主力搭建的**奇迹之城世界观**
+[[奇迹城市/奇迹之城世界观/世界构成/势力组织/奇迹城市/第零城市（Nulla Urbs）\|第零城市（Nulla Urbs）]]
+
+测试一下上传功能
