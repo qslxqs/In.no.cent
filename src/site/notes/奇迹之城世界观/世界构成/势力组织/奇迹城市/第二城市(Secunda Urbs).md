@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/奇迹之城世界观/世界构成/势力组织/奇迹城市/第二城市(Secunda Urbs)/","dgPassFrontmatter":true}
----
-
-。
